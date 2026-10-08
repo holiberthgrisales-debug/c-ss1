@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+project.nuget.cache
+*.user
+*.suo
